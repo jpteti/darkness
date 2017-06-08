@@ -1,7 +1,7 @@
 # Darkness
 
 ## Features
-* Replaces The Washington Post's slogan with surperior alternatives
+* Replaces The Washington Post's slogan with superior alternatives
 
 
 ## License
